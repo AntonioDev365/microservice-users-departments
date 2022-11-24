@@ -1,2 +1,2 @@
 # microservice-users-departments
-This project consists of two microservices about users and departments made in spring boot
+This project consists of two microservices about users and departments made in spring boot, using eureka server as service registry, spring cloud config server to save the configuration in a server, spring cloud gateway as a load balancer, hystryx dashboard for monitoring, communication between microservices via rest api with REST Template and zipkin for distribute tracing.
