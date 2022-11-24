@@ -1,2 +1,2 @@
 # microservice-users-departments
-Project with connection between two microservices users and departments
+this project consists of two microservices made in spring boot.
